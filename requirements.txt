@@ -42,7 +42,7 @@ psycopg2==2.8.6
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyAutoGUI==0.9.53
-pycodestyle==2.6.0
+pycodestyle==2.8.0
 pycparser==2.21
 pydirectory==0.1.15
 pydotplus==2.0.2
